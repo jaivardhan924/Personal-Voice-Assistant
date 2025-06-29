@@ -37,23 +37,28 @@ This structure makes the assistant easy to expand and maintain. You can plug in 
 
 Below diagrams shows how the Voice Assistant works: 
 
-1.![Screenshot 2025-06-29 154351](https://github.com/user-attachments/assets/07f01504-a32f-431d-8a25-9b8fc7ae62a2)
+1.![Screenshot 2025-06-29 154351](https://github.com/user-attachments/assets/ea586b88-749a-4318-92b9-2b02fe241434)
+
 There will be 3 attempts to open
 
-2.![Screenshot 2025-06-29 154626](https://github.com/user-attachments/assets/6ec0f5cd-c859-4ec2-aa0f-2d0f1f7a5a6d)
-3.![Screenshot 2025-06-29 154713](https://github.com/user-attachments/assets/c673eea9-12d4-4166-af4c-f42e89e3237e)
+2.![Screenshot 2025-06-29 154626](https://github.com/user-attachments/assets/416d6659-2c2d-4ab8-b2e3-76886bd3a01f)
+
+3.![Screenshot 2025-06-29 154713](https://github.com/user-attachments/assets/ff6e877e-8ea6-409c-aaa5-465e2ecfa74b)
+
 2 and 3 -> When we use the commands show info and clear info
 
-4.![Screenshot 2025-06-29 155318](https://github.com/user-attachments/assets/eb17d1ed-f1b4-4db6-ab64-c84f94826e7b)
+4.![Screenshot 2025-06-29 155318](https://github.com/user-attachments/assets/234cbf0a-7326-483d-9fbc-bcc9bfba6a20)
 Accessing the camera(Resize , Camera flip)
 
-5.![Screenshot 2025-06-29 155447](https://github.com/user-attachments/assets/405efd87-ef84-4091-8c1c-26a72f6b8b1f)
+5.![Screenshot 2025-06-29 155447](https://github.com/user-attachments/assets/db13f651-b14e-4b00-91fe-5be75f425aa9)
+
 It asks a name to save the pic and It will store the pic in gallery with the respective given name
 
-6.![Screenshot 2025-06-29 155931](https://github.com/user-attachments/assets/87f8d4d3-e817-4cea-a6a3-456a67c4db38)
+6.![Screenshot 2025-06-29 155931](https://github.com/user-attachments/assets/c9ee46f2-5080-4200-bbcb-72755507ceb1)
 Locks the assistant,close the assistant
 
-7.![Screenshot 2025-06-29 160121](https://github.com/user-attachments/assets/f22d59da-f36d-4249-9b2b-301eacda2b61)
+7.![Screenshot 2025-06-29 160121](https://github.com/user-attachments/assets/45cb94cc-77df-46b3-b740-291fb24d06ba)
+
 tells the joke,shows Screen time,Check the Live time
 
 
