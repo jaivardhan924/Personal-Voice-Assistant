@@ -1,0 +1,26 @@
+C:\Users\jaiva\Personal_Assistant\
+├── mainf.py                  ← Entry point: calls main1.main.password()
+├── main1\
+│   ├── main.py               ← Contains run_siri() and password()
+│   └── base.py               ← (optional if used in early design)
+├── AI\
+│   └── ai.py                 ← talk(text)
+├── command1\
+│   └── command.py            ← take_command()
+├── camera\
+│   ├── picture.py            ← pic(filename)
+│   ├── capture.py            ← came()
+│   └── resize.py             ← optional
+├── general\
+│   ├── yout.py               ← yt(command)
+│   ├── time.py               ← time()
+│   ├── myself.py             ← me()
+│   ├── inform.py             ← info(command)
+│   ├── log.py                ← show_log()
+│   ├── clear.py              ← clear()
+│   ├── joke.py               ← joke()
+│   ├── chrome.py             ← chrome()
+│   └── coding.py             ← coding()
+├── data\
+│   └── qandA.txt             ← log file
+├── requirements.txt          ← (optional) dependencies

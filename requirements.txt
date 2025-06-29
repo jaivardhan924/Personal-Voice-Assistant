@@ -1,0 +1,8 @@
+speech_recognition           #to recognise the voice(speech to text)
+pyttsx3                      #Text to speech
+pywhatkit                    #Automates YouTube, WhatsApp, handwriting, etc.
+datetime                     #to access the date,time,year
+wikipedia                    #gets topic summaries   
+pyjokes                      #Adds humor with jokes
+os, sys
+openCV                       #to access the camera
